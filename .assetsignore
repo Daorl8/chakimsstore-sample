@@ -1,0 +1,13 @@
+.git
+.git/**
+wrangler.toml
+.assetsignore
+README.md
+CHANGELOG.md
+STRUCTURE.md
+img
+img/**
+index_*.html
+ck-neon2.webp
+ck-night2.webp
+ck-room.webp
